@@ -1,1 +1,2 @@
 # Hacklytics24
+I've named my artifact the Smart Toothbrush. Having this toothbrush is a must for everyone as it encourages the development of good brushing habits. This toothbrush detects movement changes every time you brush your teeth using an accelerometer on the end of the brush, and it subsequently uploads this information to a web server that your designated dentist may view. By using the idea of public humiliation, users will be motivated to wash their teeth two or three times a day in order to appease the dentist and preserve a favorable self-image.
